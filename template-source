@@ -1,0 +1,307 @@
+<ac:structured-macro ac:macro-id="2f805e63-267a-4e94-97c9-9b8267e3eb5d" ac:name="details" ac:schema-version="1">
+  <ac:rich-text-body>
+    <table class="wrapped">
+      <colgroup>
+        <col/>
+        <col/>
+      </colgroup>
+      <tbody>
+        <tr>
+          <th>Project</th>
+          <td>
+            <ac:placeholder>Name of the project that is being tested </ac:placeholder>
+          </td>
+        </tr>
+        <tr>
+          <th colspan="1">Facilitator</th>
+          <td colspan="1">
+            <ac:placeholder ac:type="mention">@mention the facilitator </ac:placeholder>
+          </td>
+        </tr>
+        <tr>
+          <th>Stakeholders</th>
+          <td>
+            <ac:placeholder ac:type="mention">@mention each stakeholder who will observe </ac:placeholder>
+          </td>
+        </tr>
+        <tr>
+          <th>Date</th>
+          <td>
+            <ac:placeholder>// to select a test date </ac:placeholder>
+          </td>
+        </tr>
+        <tr>
+          <th colspan="1">Goal</th>
+          <td colspan="1">
+            <ac:placeholder>To learn ...? </ac:placeholder>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </ac:rich-text-body>
+</ac:structured-macro>
+<p>
+  <span style="color: rgb(0,51,102);font-size: 20.0px;">Participant criteria</span>
+</p>
+<ul>
+  <li>
+    <p>
+      <ac:placeholder>criteria that ensures people who test are representative users - eg library staff who request orders for monographs </ac:placeholder>
+    </p>
+  </li>
+</ul>
+<p>
+  <span style="color: rgb(0,51,102);font-size: 20.0px;">Facilities</span>
+</p>
+<table class="wrapped">
+  <colgroup>
+    <col/>
+    <col/>
+    <col/>
+    <col/>
+  </colgroup>
+  <tbody>
+    <tr>
+      <th>Test room</th>
+      <th>Observation room</th>
+      <th>Communications technology</th>
+      <th>Recording equipment</th>
+    </tr>
+    <tr>
+      <td>
+        <ac:placeholder>eg D3.323 </ac:placeholder>
+      </td>
+      <td>
+        <ac:placeholder>eg D3.333 </ac:placeholder>
+      </td>
+      <td>
+        <ac:placeholder>eg VMP, Skype </ac:placeholder>
+      </td>
+      <td>
+        <ac:placeholder>eg audio via iPod </ac:placeholder>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<h2>Scenario tasks</h2>
+<ol>
+  <li>
+    <ac:placeholder>Describe the scenario task</ac:placeholder>
+  </li>
+</ol>
+<h2>Issues observed</h2>
+<table class="wrapped">
+  <colgroup>
+    <col/>
+    <col/>
+    <col/>
+    <col/>
+    <col/>
+    <col/>
+  </colgroup>
+  <tbody>
+    <tr>
+      <th> </th>
+      <th>Task 1</th>
+      <th>Task 2</th>
+      <th>Task 3</th>
+      <th>Task 4</th>
+      <th colspan="1">Thanks</th>
+    </tr>
+    <tr>
+      <th>
+        <span style="color: rgb(0,51,102);">Participant 1</span>
+      </th>
+      <td>
+        <ac:placeholder>Add issues. </ac:placeholder>
+      </td>
+      <td>
+        <div class="content-wrapper">
+          <p>
+            <ac:structured-macro ac:macro-id="2e9eb312-bdce-4ddb-a8b3-df34f0a517df" ac:name="status" ac:schema-version="1">
+              <ac:parameter ac:name="colour">Red</ac:parameter>
+              <ac:parameter ac:name="title">ERRor</ac:parameter>
+            </ac:structured-macro>
+          </p>
+        </div>
+      </td>
+      <td>
+        <div class="content-wrapper">
+          <p>
+            <ac:structured-macro ac:macro-id="7f0d5c69-3ebe-41ab-8228-70c4583259bb" ac:name="status" ac:schema-version="1">
+              <ac:parameter ac:name="colour">Green</ac:parameter>
+              <ac:parameter ac:name="title">success</ac:parameter>
+            </ac:structured-macro>
+          </p>
+        </div>
+      </td>
+      <td>
+        <ac:placeholder>For more tasks, insert more columns </ac:placeholder>
+      </td>
+      <td colspan="1">
+        <ac:task-list>
+<ac:task>
+<ac:task-id>1</ac:task-id>
+<ac:task-status>incomplete</ac:task-status>
+<ac:task-body>
+              <span> </span>
+            </ac:task-body>
+</ac:task>
+</ac:task-list>
+      </td>
+    </tr>
+    <tr>
+      <th colspan="1">
+        <span style="color: rgb(0,51,102);">Success or fail</span>
+      </th>
+      <td colspan="1">
+        <ac:emoticon ac:name="tick"/>
+      </td>
+      <td colspan="1">
+        <ac:emoticon ac:name="cross"/>
+      </td>
+      <td colspan="1">
+        <ac:emoticon ac:name="tick"/>
+      </td>
+      <td colspan="1"> </td>
+      <td colspan="1"> </td>
+    </tr>
+    <tr>
+      <th>Participant 2</th>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td colspan="1">
+        <ac:task-list>
+<ac:task>
+<ac:task-id>2</ac:task-id>
+<ac:task-status>incomplete</ac:task-status>
+<ac:task-body>
+              <span> </span>
+            </ac:task-body>
+</ac:task>
+</ac:task-list>
+      </td>
+    </tr>
+    <tr>
+      <th colspan="1">
+        <span style="color: rgb(0,51,102);">Success or fail</span>
+      </th>
+      <td colspan="1"> </td>
+      <td colspan="1"> </td>
+      <td colspan="1"> </td>
+      <td colspan="1"> </td>
+      <td colspan="1"> </td>
+    </tr>
+    <tr>
+      <th colspan="1">
+        <p>
+          <span style="color: rgb(0,51,102);">Participant 3</span>
+        </p>
+      </th>
+      <td colspan="1"> </td>
+      <td colspan="1"> </td>
+      <td colspan="1"> </td>
+      <td colspan="1"> </td>
+      <td colspan="1">
+        <ac:task-list>
+<ac:task>
+<ac:task-id>3</ac:task-id>
+<ac:task-status>incomplete</ac:task-status>
+<ac:task-body>
+              <span> </span>
+            </ac:task-body>
+</ac:task>
+</ac:task-list>
+      </td>
+    </tr>
+    <tr>
+      <th colspan="1">
+        <span style="color: rgb(0,51,102);">Success or fail</span>
+      </th>
+      <td colspan="1"> </td>
+      <td colspan="1"> </td>
+      <td colspan="1"> </td>
+      <td colspan="1"> </td>
+      <td colspan="1"> </td>
+    </tr>
+    <tr>
+      <th colspan="1">
+        <span style="color: rgb(0,51,102);">Participant 4</span>
+      </th>
+      <td colspan="1"> </td>
+      <td colspan="1"> </td>
+      <td colspan="1"> </td>
+      <td colspan="1"> </td>
+      <td colspan="1">
+        <ac:task-list>
+<ac:task>
+<ac:task-id>4</ac:task-id>
+<ac:task-status>incomplete</ac:task-status>
+<ac:task-body>
+              <span> </span>
+            </ac:task-body>
+</ac:task>
+</ac:task-list>
+      </td>
+    </tr>
+    <tr>
+      <th colspan="1">
+        <span style="color: rgb(0,51,102);">Success or fail</span>
+      </th>
+      <td colspan="1"> </td>
+      <td colspan="1"> </td>
+      <td colspan="1"> </td>
+      <td colspan="1"> </td>
+      <td colspan="1"> </td>
+    </tr>
+    <tr>
+      <th colspan="1">
+        <span style="color: rgb(0,51,102);">Participant 5</span>
+      </th>
+      <td colspan="1"> </td>
+      <td colspan="1"> </td>
+      <td colspan="1"> </td>
+      <td colspan="1"> </td>
+      <td colspan="1">
+        <ac:task-list>
+<ac:task>
+<ac:task-id>5</ac:task-id>
+<ac:task-status>incomplete</ac:task-status>
+<ac:task-body>
+              <span> </span>
+            </ac:task-body>
+</ac:task>
+</ac:task-list>
+      </td>
+    </tr>
+    <tr>
+      <th colspan="1">
+        <span style="color: rgb(0,51,102);">Success or fail</span>
+      </th>
+      <td colspan="1"> </td>
+      <td colspan="1"> </td>
+      <td colspan="1"> </td>
+      <td colspan="1"> </td>
+      <td colspan="1"> </td>
+    </tr>
+  </tbody>
+</table>
+<h2>Actions to resolve issues</h2>
+<ac:task-list>
+<ac:task>
+<ac:task-id>6</ac:task-id>
+<ac:task-status>incomplete</ac:task-status>
+<ac:task-body>
+      <ac:placeholder>Type your task here, using "@" to assign to a user and "//" to select a due date</ac:placeholder>
+    </ac:task-body>
+</ac:task>
+<ac:task>
+<ac:task-id>7</ac:task-id>
+<ac:task-status>incomplete</ac:task-status>
+<ac:task-body>
+      <span> </span>
+    </ac:task-body>
+</ac:task>
+</ac:task-list>
