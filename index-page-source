@@ -1,0 +1,23 @@
+<p>
+  <ac:structured-macro ac:macro-id="272b6fae-5cbe-4f9b-96c1-1cd9355bf659" ac:name="create-from-template" ac:schema-version="1">
+    <ac:parameter ac:name="templateName">109903982</ac:parameter>
+    <ac:parameter ac:name="templateId">109903982</ac:parameter>
+    <ac:parameter ac:name="buttonLabel">Create usability testing notes</ac:parameter>
+  </ac:structured-macro> <ac:structured-macro ac:macro-id="5dd81d8f-1f54-4d3f-8f32-a64816789572" ac:name="livesearch" ac:schema-version="1">
+    <ac:parameter ac:name="spaceKey">
+      <ri:space ri:space-key="ux"/>
+    </ac:parameter>
+    <ac:parameter ac:name="size">large</ac:parameter>
+    <ac:parameter ac:name="additional">page excerpt</ac:parameter>
+    <ac:parameter ac:name="placeholder">Search usability testing notes</ac:parameter>
+    <ac:parameter ac:name="type">page</ac:parameter>
+    <ac:parameter ac:name="labels">usability-testing-notes</ac:parameter>
+  </ac:structured-macro>
+  <ac:structured-macro ac:macro-id="a4ee190f-3843-4349-a3ad-6b8db8eb36dc" ac:name="detailssummary" ac:schema-version="2">
+    <ac:parameter ac:name="showLikesCount">true</ac:parameter>
+    <ac:parameter ac:name="showCommentsCount">true</ac:parameter>
+    <ac:parameter ac:name="headings">Facilitator,Stakeholders,Date,Goal</ac:parameter>
+    <ac:parameter ac:name="pageSize">20</ac:parameter>
+    <ac:parameter ac:name="cql">label = "usability-testing-notes" and space = currentSpace() and type = "page"</ac:parameter>
+  </ac:structured-macro>
+</p>
